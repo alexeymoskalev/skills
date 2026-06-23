@@ -1,0 +1,12 @@
+SKILL.md
+README.md
+manifest.txt
+templates/task-prompt.md
+templates/clarification.md
+tools/validate_task.py
+schemas/task-spec.schema.json
+examples/valid-task.json
+examples/valid-output.md
+examples/needs-input.json
+examples/counterexample.md
+tests/test_validate_task.py
